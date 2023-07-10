@@ -1,0 +1,115 @@
+.header{
+
+    background-image: url('../images/banner/banner1.png');
+    background-color:  lightgray;
+    background-repeat: no-repeat;
+}
+.button{
+    border-radius: 5px;
+    background: #F15B22;
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+}
+.all{
+    color: var #151414;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;  
+    /* margin-right: 0px 230px 364px 845px; */
+    display: block;
+   padding: 80px 400px 10px 845px;
+}
+.pera1{
+    color: #444343;
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+flex-direction: column;
+display: block;
+ padding:0px 400px 0px 876px; 
+}
+.button{
+    color: #FFF;
+    text-align:center;
+    font-family: Work Sans;
+    font-size: 20px;
+     margin:10px 500px 186px 1400px; 
+     border: none;
+}
+/* 2nd page */
+.section{
+    background-image: url('../images/person.png') ,url('');
+    background-color:  lightgray;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 898px;
+}
+.nav2{
+    background-color:#FFF;
+     /* text-align: right;  */
+     margin: 10px 80px 100px 10px;
+     display: inline;
+}
+.my{
+    color:#151414;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+}
+.pera2{
+    color: #444343;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+ul >li{
+    color: #444343;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+.hi{
+    text-align: center;
+}
+.section2{
+    display: flex;
+}
+.icons{margin: 60px;
+    padding: 30px 80px;
+    gap: 20px;
+    display: block;
+}
+.section3{
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+height: 300px;
+
+}
+.aw{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+width: 459px;
+text-align: center;
+}
+.butt{
+    border-radius: 5px;
+background: #FFF;
+width: 160px;
+height: 64px;
+color: #F15B22;
+text-align: center;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+border: none;
+margin: 30px;
+}
